@@ -1,0 +1,16 @@
+{
+  "name": "Мел Иного Места",
+  "icon": "enchanted:otherwhere_chalk",
+  "category": "enchanted:cauldron",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Мел Иного Места — насыщенный фиолетовый мел, который обычно используют для обрядов, связанных с телепортацией/перемещением, переносом, изменением расположения или Краем."
+    },
+    {
+      "type": "enchanted:cauldron_recipe",
+      "recipe": "enchanted:witch_cauldron/otherwhere_chalk"
+    }
+  ],
+  "read_by_default": true
+}

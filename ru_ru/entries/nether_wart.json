@@ -1,0 +1,16 @@
+{
+  "name": "Нарост Нижнего мира",
+  "icon": "minecraft:nether_wart",
+  "category": "enchanted:cauldron",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Хотя это дорого, нарост Нижнего мира можно синтезировать в котле, если Ведьма не может найти его обычными способами.$(br2)Не рекомендуется делать это, так как это и дорого, и неэффективно."
+    },
+    {
+      "type": "enchanted:cauldron_recipe",
+      "recipe": "enchanted:witch_cauldron/nether_wart"
+    }
+  ],
+  "read_by_default": true
+}

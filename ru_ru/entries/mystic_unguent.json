@@ -1,0 +1,16 @@
+{
+  "name": "Мистический унгуент",
+  "icon": "enchanted:mystic_unguent",
+  "category": "enchanted:kettle",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Мистический унгуент — любопытная смесь, позволяющая предмету придавать форму мыслям. $(br2)Используется в настое мистической ветви; если выпить его, вы ослабнете."
+    },
+    {
+      "type": "enchanted:kettle_recipe",
+      "recipe": "enchanted:kettle/mystic_unguent"
+    }
+  ],
+  "read_by_default": true
+}
