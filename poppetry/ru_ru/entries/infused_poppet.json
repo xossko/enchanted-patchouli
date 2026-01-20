@@ -1,0 +1,12 @@
+{
+  "name": "Насыщенная Кукла",
+  "icon": "minecraft:crafting_table",
+  "category": "enchanted:infusing_poppets",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Насыщенная Кукла — базовое устройство для насыщения. Насыщенные куклы получают гораздо большую эффективность от насыщений."
+    }
+  ],
+  "read_by_default": true
+}

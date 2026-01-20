@@ -1,0 +1,12 @@
+{
+  "name": "Кукла",
+  "icon": "minecraft:yarn",
+  "category": "enchanted:creating_poppets",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Кукла — базовое предмет кукломски. Она снов составить из принадлежностей и антагониста при базовом рецепте."
+    }
+  ],
+  "read_by_default": true
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Земля",
+  "icon": "minecraft:dirt",
+  "category": "enchanted:infusing_poppets",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Земля — приоритет хвост твердых кукл. Она используется для стабилизации и чтобы каратель."
+    }
+  ],
+  "read_by_default": true
+}

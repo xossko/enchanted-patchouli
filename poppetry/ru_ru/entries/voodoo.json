@@ -1,0 +1,12 @@
+{
+  "name": "Вровду",
+  "icon": "minecraft:redstone_torch",
+  "category": "enchanted:infusing_poppets",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Вровду — египтэк воин кукл гто дает отрицательные эффекты для заданных Целей и страниц."
+    }
+  ],
+  "read_by_default": true
+}

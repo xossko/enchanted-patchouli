@@ -1,0 +1,12 @@
+{
+  "name": "Вровду защита",
+  "icon": "minecraft:shield",
+  "category": "enchanted:infusing_poppets",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Вровду защита — противодействие к вровду. Она работает также для нормального вреди так что используется как для того чтобы всю дать помощь."
+    }
+  ],
+  "read_by_default": true
+}

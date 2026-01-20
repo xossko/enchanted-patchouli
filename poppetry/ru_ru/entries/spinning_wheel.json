@@ -1,0 +1,12 @@
+{
+  "name": "Потрелка",
+  "icon": "minecraft:crafting_table",
+  "category": "enchanted:creating_poppets",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Потрелка — волшебно рукттура для отделки ткани для кокм и нитей. Она автоматически принимает куклы в обычном виде."
+    }
+  ],
+  "read_by_default": true
+}

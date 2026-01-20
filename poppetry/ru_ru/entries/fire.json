@@ -1,0 +1,12 @@
+{
+  "name": "Огонь",
+  "icon": "minecraft:redstone",
+  "category": "enchanted:infusing_poppets",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Огонь — страсть и действие. Куклы с этим насыщением реже и быстрее, ала также нестабильные и сходящиеся."
+    }
+  ],
+  "read_by_default": true
+}

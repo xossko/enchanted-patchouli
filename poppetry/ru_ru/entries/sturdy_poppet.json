@@ -1,0 +1,12 @@
+{
+  "name": "Пропускаемая Кукла",
+  "icon": "minecraft:obsidian",
+  "category": "enchanted:creating_poppets",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Пропускаемая Кукла — модель куклы для тех кто может затемнять все понимают. Ее очка трудно найти и бросать."
+    }
+  ],
+  "read_by_default": true
+}

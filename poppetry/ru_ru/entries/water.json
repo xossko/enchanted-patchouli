@@ -1,0 +1,12 @@
+{
+  "name": "Вода",
+  "icon": "minecraft:water_bucket",
+  "category": "enchanted:infusing_poppets",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Вода — насыщение которое дает куклам мсю можности вододействия. Она гарантирует что эффекты воды будут работать."
+    }
+  ],
+  "read_by_default": true
+}

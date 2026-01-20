@@ -1,0 +1,12 @@
+{
+  "name": "Магия",
+  "icon": "minecraft:amethyst_shard",
+  "category": "enchanted:infusing_poppets",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Магия — самая могучая кукла для тех, кто может ее составить. Она абсолютно превосходит другие насыщения."
+    }
+  ],
+  "read_by_default": true
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Голод",
+  "icon": "minecraft:rotten_flesh",
+  "category": "enchanted:infusing_poppets",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Голод — снижение действия. Куклы с этим насыщением заставляют шель работать медленнее десятикратно."
+    }
+  ],
+  "read_by_default": true
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Броня",
+  "icon": "minecraft:iron_chestplate",
+  "category": "enchanted:infusing_poppets",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Броня — насыщение для защиты от вреда. Куклы с этим насыщением делают цель более сносливой."
+    }
+  ],
+  "read_by_default": true
+}

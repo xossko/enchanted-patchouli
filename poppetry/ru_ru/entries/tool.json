@@ -1,0 +1,12 @@
+{
+  "name": "Инструмент",
+  "icon": "minecraft:diamond_pickaxe",
+  "category": "enchanted:infusing_poppets",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Инструмент — насыщение для кукл дает им свойства определенных инструментов и оружия."
+    }
+  ],
+  "read_by_default": true
+}

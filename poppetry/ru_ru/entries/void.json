@@ -1,0 +1,12 @@
+{
+  "name": "Пустота",
+  "icon": "minecraft:barrier",
+  "category": "enchanted:infusing_poppets",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Пустота — разрушительное насыщение. Куклы с этим насыщением разрушают землю и блоки в радиусе."
+    }
+  ],
+  "read_by_default": true
+}

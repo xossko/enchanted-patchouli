@@ -1,0 +1,12 @@
+{
+  "name": "Полка кукл",
+  "icon": "minecraft:crafting_table",
+  "category": "enchanted:creating_poppets",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Полка кукл — логистические данные для сторения с одновременным строительством много кукл."
+    }
+  ],
+  "read_by_default": true
+}
