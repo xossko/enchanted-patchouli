@@ -1,0 +1,22 @@
+{
+  "processor": "net.favouriteless.enchanted.patchouli.processors.WitchOvenRecipeProcessor",
+  "recipe": "#recipe",
+  "components": [
+    {
+      "type": "patchouli:item",
+      "item": "#output",
+      "framed": true,
+      "x": 50,
+      "y": 30
+    },
+    {
+      "type": "patchouli:custom",
+      "class": "net.favouriteless.enchanted.patchouli.components.ItemListComponent",
+      "x": 50,
+      "y": 90,
+      "itemList": "#byproductList",
+      "itemsPerRow": 3,
+      "centered": true
+    }
+  ]
+}

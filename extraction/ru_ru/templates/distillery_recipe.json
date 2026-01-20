@@ -1,0 +1,46 @@
+{
+  "processor": "net.favouriteless.enchanted.patchouli.processors.DistilleryRecipeProcessor",
+  "recipe": "#recipe",
+  "components": [
+    {
+      "type": "patchouli:header",
+      "text": "Рецепт дистилирования",
+      "centered": true,
+      "x": -1,
+      "y": -1
+    },
+    {
+      "type": "patchouli:separator",
+      "x": -1,
+      "y": -1
+    },
+    {
+      "type": "patchouli:custom",
+      "class": "net.favouriteless.enchanted.patchouli.components.ItemListComponent",
+      "x": 50,
+      "y": 35,
+      "itemList": "#itemList",
+      "itemsPerRow": 3,
+      "centered": true
+    },
+    {
+      "type": "patchouli:image",
+      "image": "enchanted:textures/patchouli/arrow_down.png",
+      "width": 16,
+      "height": 22,
+      "texture_width": 32,
+      "texture_height": 32,
+      "x": 50,
+      "y": 65
+    },
+    {
+      "type": "patchouli:custom",
+      "class": "net.favouriteless.enchanted.patchouli.components.ItemListComponent",
+      "x": 50,
+      "y": 100,
+      "itemList": "#outputList",
+      "itemsPerRow": 3,
+      "centered": true
+    }
+  ]
+}

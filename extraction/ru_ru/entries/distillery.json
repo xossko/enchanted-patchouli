@@ -1,0 +1,30 @@
+{
+  "name": "Дистилытор",
+  "icon": "enchanted:distillery",
+  "category": "enchanted:distillation",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Дистилытор позволяет ведьмам разделять материал на его компоненты, используя разницы температур испарения и конденсации. $(br2)Расставьте рядом с Алтарем, имеющим достаточнюю энергию."
+    },
+    {
+      "type": "patchouli:multiblock",
+      "enable_visualize": false,
+      "multiblock": {
+        "mapping": {
+          "0": "enchanted:distillery[facing=north,lit=true]"
+        },
+        "pattern": [
+          [ "0" ],
+          [ " " ]
+        ]
+      }
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "enchanted:distillery"
+    }
+  ],
+  "read_by_default": false,
+  "priority": true
+}

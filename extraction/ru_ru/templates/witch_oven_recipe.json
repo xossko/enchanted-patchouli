@@ -1,0 +1,57 @@
+{
+  "processor": "net.favouriteless.enchanted.patchouli.processors.WitchOvenRecipeProcessor",
+  "recipe": "#recipe",
+  "components": [
+    {
+      "type": "patchouli:header",
+      "text": "Рецепт ведьминой печи",
+      "centered": true,
+      "x": -1,
+      "y": -1
+    },
+    {
+      "type": "patchouli:separator",
+      "x": -1,
+      "y": -1
+    },
+    {
+      "type": "patchouli:item",
+      "item": "#input",
+      "framed": true,
+      "x": 25,
+      "y": 35
+    },
+    {
+      "type": "patchouli:image",
+      "image": "enchanted:textures/patchouli/arrow_right.png",
+      "width": 22,
+      "height": 16,
+      "texture_width": 32,
+      "texture_height": 32,
+      "x": 53,
+      "y": 42
+    },
+    {
+      "type": "patchouli:item",
+      "item": "#output",
+      "framed": true,
+      "x": 85,
+      "y": 35
+    },
+    {
+      "type": "patchouli:custom",
+      "class": "net.favouriteless.enchanted.patchouli.components.ItemListComponent",
+      "x": 50,
+      "y": 90,
+      "itemList": "#byproductList",
+      "itemsPerRow": 3,
+      "centered": true
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(br)На экране ниже сред лия способныю фильтру фнов",
+      "x": 0,
+      "y": 120
+    }
+  ]
+}
