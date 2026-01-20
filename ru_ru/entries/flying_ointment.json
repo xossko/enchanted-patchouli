@@ -1,0 +1,16 @@
+{
+  "name": "Летучая мазь",
+  "icon": "enchanted:flying_ointment",
+  "category": "enchanted:kettle",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Летучая мазь — жидкость, которая будто бы бросает вызов гравитации. Всё, что пропитано ей, получает способность летать — включая игроков, которые её выпьют.$(br2)Используется для пропитки метёл."
+    },
+    {
+      "type": "enchanted:kettle_recipe",
+      "recipe": "enchanted:kettle/flying_ointment"
+    }
+  ],
+  "read_by_default": true
+}

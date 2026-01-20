@@ -1,0 +1,32 @@
+{
+  "name": "Ведьмин котёл",
+  "icon": "enchanted:witch_cauldron",
+  "category": "enchanted:cauldron",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Ведьмин котёл — улучшенная версия котла, используемая для создания магических субстанций и особых отваров (в разработке). $(br2)Котёл нужно поставить над источником огня, чтобы он кипел; также может потребоваться сила алтаря.$(br2)Если котлу не хватает жара или силы, отвар станет коричневым и испортится — его нужно удалить."
+    },
+    {
+      "type": "patchouli:multiblock",
+      "enable_visualize": false,
+      "multiblock": {
+        "mapping": {
+          "0": "enchanted:witch_cauldron",
+          "1": "minecraft:campfire[lit=true]"
+        },
+        "pattern": [
+          [" 0 "],
+          [" 1 "]
+        ]
+      }
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "enchanted:anointing_paste",
+      "text": "Используйте пасту помазания на обычном котле, чтобы превратить его в Ведьмин котёл.$(br2)Отвар можно создать, наполнив котёл водой и бросая нужные предметы в нужном порядке."
+    }
+  ],
+  "read_by_default": false,
+  "priority": true
+}

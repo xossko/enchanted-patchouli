@@ -1,0 +1,16 @@
+{
+  "name": "Варка еды",
+  "icon": "minecraft:cooked_beef",
+  "category": "enchanted:cauldron",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Ещё одно применение Ведьминого котла — варить еду, чтобы готовить её без топлива. Это эффективный способ готовки и он работает с любой едой. $(br2)Сейчас работает только с ванильной едой; позже будет добавлено больше."
+    },
+    {
+      "type": "enchanted:cauldron_recipe",
+      "recipe": "enchanted:witch_cauldron/cooked_beef"
+    }
+  ],
+  "read_by_default": true
+}
