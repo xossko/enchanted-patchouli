@@ -1,0 +1,6 @@
+{
+  "name": "Проведение обрядов",
+  "description": "Этот раздел описывает процесс, используемый для проведения обряда магии круга.",
+  "icon": "enchanted:textures/block/glyph_gold.png",
+  "sortnum": -1
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Проведение обрядов",
+  "icon": "enchanted:textures/block/glyph_gold.png",
+  "category": "enchanted:performing_rites",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Чтобы провести обряд, сначала нужно построить правильные меловые круги. Для обрядов можно использовать три типа мела: ритуальный, адский и мел Иного Места, которые размещаются вокруг сердечного глифа, начерченного золотым мелом.$(br2)Каждому обряду нужно подходящее количество энергии от алтаря и предметов-фокусов — это отображается на диаграмме."
+    },
+    {
+      "type": "enchanted:rite_requirements",
+      "rite": "enchanted:charging_stone"
+    }
+  ],
+  "read_by_default": false,
+  "priority": true
+}

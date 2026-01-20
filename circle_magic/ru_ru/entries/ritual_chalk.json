@@ -1,0 +1,16 @@
+{
+  "name": "Ритуальный мел",
+  "icon": "enchanted:ritual_chalk",
+  "category": "enchanted:performing_rites",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Ритуальный мел — самая базовая форма мела, используемая в магии круга; его довольно легко добыть, и он используется для многих простых применений, а также для более сложных обрядов."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "enchanted:ritual_chalk"
+    }
+  ],
+  "read_by_default": true
+}
