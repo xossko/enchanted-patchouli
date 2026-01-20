@@ -1,0 +1,16 @@
+{
+  "name": "Книга Гербологии",
+  "icon": "enchanted:book_of_witchcraft_herbology",
+  "category": "enchanted:additional_resources",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Магические Оръ и Отвары. Нивелир основных растений и другие растительные материалы."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "enchanted:book_of_witchcraft_herbology"
+    }
+  ],
+  "read_by_default": true
+}

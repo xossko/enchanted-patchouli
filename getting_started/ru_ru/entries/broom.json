@@ -1,0 +1,16 @@
+{
+  "name": "Метла",
+  "icon": "enchanted:broom",
+  "category": "enchanted:tools",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Метла к ведьме то, что лошадь к кавалеру. Многие ведьмы сидят на метлах до очередных бракатва."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "enchanted:broom"
+    }
+  ],
+  "read_by_default": true
+}

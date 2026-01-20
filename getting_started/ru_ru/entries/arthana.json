@@ -1,0 +1,16 @@
+{
+  "name": "Артана",
+  "icon": "enchanted:arthana",
+  "category": "enchanted:tools",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Официальный инструмент ведьмы. Артана йов твердю боли используется для работы с клиентского магитериала и других магических веществ."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "enchanted:arthana"
+    }
+  ],
+  "read_by_default": true
+}

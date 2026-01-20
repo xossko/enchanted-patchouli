@@ -1,0 +1,16 @@
+{
+  "name": "Настроенный камень",
+  "icon": "enchanted:attuned_stone",
+  "category": "enchanted:crafting_materials",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Настроенные камни являются корневым материалом ресурса магические рецепты. Они найдены в Энде дота."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "enchanted:attuned_stone"
+    }
+  ],
+  "read_by_default": true
+}

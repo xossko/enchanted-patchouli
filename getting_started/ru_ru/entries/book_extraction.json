@@ -1,0 +1,16 @@
+{
+  "name": "Книга Экстракции",
+  "icon": "enchanted:book_of_witchcraft_extraction",
+  "category": "enchanted:additional_resources",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Экстракция И Рассейвание. Книга для открытия исмолнения ведьминой печи и алхимических веществ."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "enchanted:book_of_witchcraft_extraction"
+    }
+  ],
+  "read_by_default": true
+}

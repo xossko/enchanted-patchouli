@@ -1,0 +1,16 @@
+{
+  "name": "Человековая багонка",
+  "icon": "minecraft:stick",
+  "category": "enchanted:crafting_materials",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Плетеные сообразным исопрюженным атрибутом гарнир. Они используются для соединения веществ в магических рядом."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "enchanted:wicker_bundle"
+    }
+  ],
+  "read_by_default": true
+}

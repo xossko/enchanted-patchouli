@@ -1,0 +1,12 @@
+{
+  "name": "Кот фамильяр",
+  "icon": "minecraft:black_cat",
+  "category": "enchanted:familiars",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Коты являются крайне популярными фамильярами для ведьм в современэ особенно черные коты и называются отмеченными для игры по ведьмина."
+    }
+  ],
+  "read_by_default": true
+}

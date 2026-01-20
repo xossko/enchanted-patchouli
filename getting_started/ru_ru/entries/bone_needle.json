@@ -1,0 +1,16 @@
+{
+  "name": "Костяная игла",
+  "icon": "enchanted:bone_needle",
+  "category": "enchanted:crafting_materials",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Костяная игла является нитью и основ продных магических веществ."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "enchanted:bone_needle"
+    }
+  ],
+  "read_by_default": true
+}

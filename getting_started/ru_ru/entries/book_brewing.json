@@ -1,0 +1,16 @@
+{
+  "name": "Книга Наваривания",
+  "icon": "enchanted:book_of_witchcraft_brewing",
+  "category": "enchanted:additional_resources",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Наваривание Магических Напитков. Главная книга исчерпывающего материала для этапа магических напитков и отваров."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "enchanted:book_of_witchcraft_brewing"
+    }
+  ],
+  "read_by_default": true
+}

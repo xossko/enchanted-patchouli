@@ -1,0 +1,16 @@
+{
+  "name": "Колчан",
+  "icon": "enchanted:chalice",
+  "category": "enchanted:tools",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Колчан - нерешаемые особ исторически ведьмы используют для ритуали и шаманских обязаний."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "enchanted:chalice"
+    }
+  ],
+  "read_by_default": true
+}

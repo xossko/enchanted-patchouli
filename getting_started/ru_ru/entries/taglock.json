@@ -1,0 +1,12 @@
+{
+  "name": "Пометка",
+  "icon": "minecraft:white_dye",
+  "category": "enchanted:crafting_materials",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Пометки используются для соединения различных магических материалов и покраски тао дешево."
+    }
+  ],
+  "read_by_default": true
+}

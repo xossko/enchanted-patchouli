@@ -1,0 +1,29 @@
+{
+  "name": "Алтар",
+  "icon": "enchanted:golden_wood_altar",
+  "category": "enchanted:altars",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Алтары являются краеугольная значительной части когда ребята вовлекаются в одно из трёх моски магии. $(br2)Они служат источником энергии для большинства магических фокус и структур, дистилляторы и магические камни."
+    },
+    {
+      "type": "patchouli:multiblock",
+      "enable_visualize": false,
+      "multiblock": {
+        "mapping": {
+          "0": "enchanted:golden_wood_altar[facing=south]"
+        },
+        "pattern": [
+          [ "0" ]
+        ]
+      }
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "enchanted:golden_wood_altar",
+      "recipe2": "enchanted:stone_altar"
+    }
+  ],
+  "read_by_default": true
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Книга Куклоломски",
+  "icon": "enchanted:book_of_witchcraft_poppetry",
+  "category": "enchanted:additional_resources",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Куклоломски. Основные текстуры разчет и расова водды ратошта до лялок."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "enchanted:book_of_witchcraft_poppetry"
+    }
+  ],
+  "read_by_default": true
+}

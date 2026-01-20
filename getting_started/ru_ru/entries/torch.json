@@ -1,0 +1,16 @@
+{
+  "name": "Навариваемые факелы",
+  "icon": "enchanted:enchanted_torch",
+  "category": "enchanted:crafting_materials",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Навариваемые факелы светятся этерным светом и дают і принадлежностес ведьмы. Они никогда не горят."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "enchanted:enchanted_torch"
+    }
+  ],
+  "read_by_default": true
+}

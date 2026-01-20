@@ -1,0 +1,12 @@
+{
+  "name": "Локальние Краниумы",
+  "icon": "minecraft:skeleton_skull",
+  "category": "enchanted:crafting_materials",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Не только грозные, но и весьма полезные для различных магических ритуалов. Они используются для стволения пожелтелий и материала для варки."
+    }
+  ],
+  "read_by_default": true
+}

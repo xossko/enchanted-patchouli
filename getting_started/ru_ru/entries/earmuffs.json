@@ -1,0 +1,16 @@
+{
+  "name": "Наушники",
+  "icon": "enchanted:earmuffs",
+  "category": "enchanted:tools",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Наушники - достав обрадная принадлежность. Они выглюдят красиво на ведьме."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "enchanted:earmuffs"
+    }
+  ],
+  "read_by_default": true
+}

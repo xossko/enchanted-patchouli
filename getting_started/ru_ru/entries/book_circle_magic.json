@@ -1,0 +1,16 @@
+{
+  "name": "Книга Магии Круга",
+  "icon": "enchanted:book_of_witchcraft_circle_magic",
+  "category": "enchanted:additional_resources",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Магия Круга и Ее Многіе исследования. Книга для открытия многих магических ритуалов и обрядов в магических кругах."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "enchanted:book_of_witchcraft_circle_magic"
+    }
+  ],
+  "read_by_default": true
+}
