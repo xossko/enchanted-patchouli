@@ -1,0 +1,12 @@
+{
+  "name": "Новая Прасина",
+  "icon": "minecraft:oak_leaves",
+  "category": "enchanted:common_plants",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Новая Прасина — древниесь растения с старомными жизни и чистей связяных с социальным правилам. Она часта используется в лесных ритуалах."
+    }
+  ],
+  "read_by_default": true
+}

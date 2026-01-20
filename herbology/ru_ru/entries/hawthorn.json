@@ -1,0 +1,12 @@
+{
+  "name": "Боярышник",
+  "icon": "minecraft:oak_leaves",
+  "category": "enchanted:common_plants",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Боярышник — древниесь магическая растительная растения для единомышленности и шнопительности. Она часта используется в рунических ритуалах."
+    }
+  ],
+  "read_by_default": true
+}

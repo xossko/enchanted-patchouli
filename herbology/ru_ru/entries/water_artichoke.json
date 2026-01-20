@@ -1,0 +1,12 @@
+{
+  "name": "Водяная Артишок",
+  "icon": "minecraft:waterlily",
+  "category": "enchanted:common_plants",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Водяная Артишок — растение свиресъя, прорости в воде и навина. Она часта используется на ритуалах воды."
+    }
+  ],
+  "read_by_default": true
+}

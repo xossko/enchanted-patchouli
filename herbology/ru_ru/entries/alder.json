@@ -1,0 +1,12 @@
+{
+  "name": "Ольха",
+  "icon": "minecraft:birch_sapling",
+  "category": "enchanted:common_plants",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Ольха — древниеся растение, ассоциируемая с защитой и силой. Она стреновится темв для самоутверждения и стойкости."
+    }
+  ],
+  "read_by_default": true
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Отпускающийся Мосс",
+  "icon": "minecraft:seagrass",
+  "category": "enchanted:common_plants",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Отпускающийся Мосс — корненная магическая растительная растения. Её часта найды в тётлых лесах."
+    }
+  ],
+  "read_by_default": true
+}

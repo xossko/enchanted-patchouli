@@ -1,0 +1,12 @@
+{
+  "name": "Мандрагора",
+  "icon": "minecraft:tall_grass",
+  "category": "enchanted:common_plants",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Мандрагора — одна из самых греховых настоек всех времен. Она используется для особо сильных магических ритуалов."
+    }
+  ],
+  "read_by_default": true
+}

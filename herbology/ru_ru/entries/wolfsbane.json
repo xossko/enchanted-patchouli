@@ -1,0 +1,12 @@
+{
+  "name": "Волкогорст",
+  "icon": "minecraft:purple_flower",
+  "category": "enchanted:common_plants",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Волкогорст — мощные растения с глубоким вредитела, нервным и ретрансформируючим. Она используется для протекции и вращения сонрания."
+    }
+  ],
+  "read_by_default": true
+}

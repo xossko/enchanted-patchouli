@@ -1,0 +1,12 @@
+{
+  "name": "Мутандис",
+  "icon": "minecraft:allium",
+  "category": "enchanted:mutated_plants",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Мутандис — мутированные растения, используемые для гвтаения других растений через мутацию."
+    }
+  ],
+  "read_by_default": true
+}

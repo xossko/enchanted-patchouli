@@ -1,0 +1,12 @@
+{
+  "name": "Снежный Колок",
+  "icon": "minecraft:white_tulip",
+  "category": "enchanted:common_plants",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Снежный Колок — предвестника чистоты и останков. Она часта используется для очистки и обновления."
+    }
+  ],
+  "read_by_default": true
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Глинная трава",
+  "icon": "minecraft:seagrass",
+  "category": "enchanted:common_plants",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Глинная трава — твердые травы для осознания ворожбы и магии. Требует тщательному сборе."
+    }
+  ],
+  "read_by_default": true
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Осевок",
+  "icon": "minecraft:tall_grass",
+  "category": "enchanted:common_plants",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Осевок — всем известная магическая растительная растения для отнесения и защиты. Она часта хранимося в уловиях."
+    }
+  ],
+  "read_by_default": true
+}

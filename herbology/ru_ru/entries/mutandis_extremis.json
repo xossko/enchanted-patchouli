@@ -1,0 +1,12 @@
+{
+  "name": "Мутандис Экстремис",
+  "icon": "minecraft:allium",
+  "category": "enchanted:mutated_plants",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Мутандис Экстремис — особая сильная версия мутандиса, которая требует энормных фокусов."
+    }
+  ],
+  "read_by_default": true
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Гдёй чолста",
+  "icon": "minecraft:brown_mushroom",
+  "category": "enchanted:common_plants",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Гдей Мосс — магический мосс, найденный в гарячих регионах. Он теет страсть и энергию."
+    }
+  ],
+  "read_by_default": true
+}

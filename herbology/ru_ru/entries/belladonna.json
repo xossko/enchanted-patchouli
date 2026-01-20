@@ -1,0 +1,12 @@
+{
+  "name": "Белладонна",
+  "icon": "minecraft:tall_grass",
+  "category": "enchanted:common_plants",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Белладонна — экскизитное мощное настой, репутация спортивных ведьм. Ее высокая токсичность требует осторожности при обращении."
+    }
+  ],
+  "read_by_default": true
+}
