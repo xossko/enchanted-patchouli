@@ -1,0 +1,16 @@
+{
+  "name": "Золотой мел",
+  "icon": "enchanted:golden_chalk",
+  "category": "enchanted:cauldron",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Золотой мел используется для создания сердечного глифа магического круга; по нему нужно щёлкнуть ПКМ, чтобы активировать. Ни один обряд не будет работать без сердечного глифа."
+    },
+    {
+      "type": "enchanted:cauldron_recipe",
+      "recipe": "enchanted:witch_cauldron/golden_chalk"
+    }
+  ],
+  "read_by_default": true
+}

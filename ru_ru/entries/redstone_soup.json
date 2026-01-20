@@ -1,0 +1,16 @@
+{
+  "name": "Редстоуновый суп",
+  "icon": "enchanted:redstone_soup",
+  "category": "enchanted:kettle",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Редстоуновый суп служит основой для других настоев и отваров; похоже, сам по себе он почти не имеет эффектов. $(br2)Если выпить редстоуновый суп, здоровье может ненадолго увеличиться."
+    },
+    {
+      "type": "enchanted:kettle_recipe",
+      "recipe": "enchanted:kettle/redstone_soup"
+    }
+  ],
+  "read_by_default": true
+}
