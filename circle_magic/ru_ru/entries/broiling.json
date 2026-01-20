@@ -1,0 +1,17 @@
+{
+  "name": "Жарка",
+  "icon": "minecraft:beef",
+  "category": "enchanted:world",
+  "pages": [
+    {
+      "type": "enchanted:rite_description",
+      "rite_name": "Жарка",
+      "text": "Быстро готовьте всю сырую пищу внутри круга $(br2)Так как тепло настолько интенсивно, есть вероятность, что часть пищи может подгореть."
+    },
+    {
+      "type": "enchanted:rite_requirements",
+      "rite": "enchanted:broiling"
+    }
+  ],
+  "read_by_default": true
+}

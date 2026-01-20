@@ -1,0 +1,16 @@
+{
+  "name": "Адский мел",
+  "icon": "enchanted:nether_chalk",
+  "category": "enchanted:performing_rites",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Адский мел — тёмно-красный мел, который выглядит так, будто горит. $(br2)Адский мел используется в большинстве обрядов, связанных с Нижним миром, демоническими существами или огнём. Должен быть создан в котле."
+    },
+    {
+      "type": "enchanted:cauldron_recipe",
+      "recipe": "enchanted:witch_cauldron/nether_chalk"
+    }
+  ],
+  "read_by_default": true
+}

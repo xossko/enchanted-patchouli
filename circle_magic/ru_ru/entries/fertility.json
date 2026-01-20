@@ -1,0 +1,26 @@
+{
+  "name": "Плодородие",
+  "icon": "minecraft:emerald",
+  "category": "enchanted:world",
+  "pages": [
+    {
+      "type": "enchanted:rite_description",
+      "rite_name": "Плодородие",
+      "text": "Вызовите рост растений на большой площади, исцелите больных животных и вылечите зомби-жителей."
+    },
+    {
+      "type": "enchanted:rite_requirements",
+      "rite": "enchanted:fertility"
+    },
+    {
+      "type": "enchanted:rite_description",
+      "rite_name": "Плодородие",
+      "text": "Вызовите рост растений на большой площади, исцелите больных животных и вылечите зомби-жителей."
+    },
+    {
+      "type": "enchanted:rite_requirements",
+      "rite": "enchanted:fertility_charged"
+    }
+  ],
+  "read_by_default": true
+}

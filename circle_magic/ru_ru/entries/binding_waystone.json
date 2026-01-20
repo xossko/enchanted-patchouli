@@ -1,0 +1,62 @@
+{
+  "name": "Путевой камень",
+  "icon": "enchanted:bound_waystone",
+  "category": "enchanted:binding",
+  "pages": [
+    {
+      "type": "enchanted:rite_description",
+      "rite_name": "Путевой камень",
+      "text": "Выполните этот обряд, чтобы привязать местоположение круга к путевому камню для использования в других обрядах, связанных с местоположением."
+    },
+    {
+      "type": "enchanted:rite_requirements",
+      "rite": "enchanted:waystone"
+    },
+    {
+      "type": "enchanted:rite_description",
+      "rite_name": "Путевой камень",
+      "text": "Выполните этот обряд, чтобы привязать местоположение круга к путевому камню для использования в других обрядах, связанных с местоположением."
+    },
+    {
+      "type": "enchanted:rite_requirements",
+      "rite": "enchanted:waystone_charged"
+    },
+    {
+      "type": "enchanted:rite_description",
+      "rite_name": "Дублирование путевого камня",
+      "text": "Перенесите привязанное местоположение путевого камня на другой путевой камень, чтобы создать два идентичных путевых камня."
+    },
+    {
+      "type": "enchanted:rite_requirements",
+      "rite": "enchanted:duplicate_waystone"
+    },
+    {
+      "type": "enchanted:rite_description",
+      "rite_name": "Дублирование путевого камня",
+      "text": "Перенесите привязанное местоположение путевого камня на другой путевой камень, чтобы создать два идентичных путевых камня."
+    },
+    {
+      "type": "enchanted:rite_requirements",
+      "rite": "enchanted:duplicate_waystone_charged"
+    },
+    {
+      "type": "enchanted:rite_description",
+      "rite_name": "Кровавый путевой камень",
+      "text": "Этот обряд привязывает путевой камень к местоположению игрока, который будет двигаться вместе с игроком."
+    },
+    {
+      "type": "enchanted:rite_requirements",
+      "rite": "enchanted:waystone_blooded"
+    },
+    {
+      "type": "enchanted:rite_description",
+      "rite_name": "Кровавый путевой камень",
+      "text": "Этот обряд привязывает путевой камень к местоположению игрока, который будет двигаться вместе с игроком."
+    },
+    {
+      "type": "enchanted:rite_requirements",
+      "rite": "enchanted:waystone_blooded_charged"
+    }
+  ],
+  "read_by_default": true
+}

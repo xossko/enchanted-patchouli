@@ -1,0 +1,18 @@
+{
+  "name": "Проклятие утопления",
+  "icon": "minecraft:water_bucket",
+  "category": "enchanted:curses",
+  "pages": [
+    {
+      "type": "enchanted:rite_description",
+      "rite_name": "Проклятие утопления",
+      "text": "Прокляните поражённого стать тяжелее как в воде, так и в воздухе. $(br2)Проводите во время шторма."
+    },
+    {
+      "type": "enchanted:rite_requirements",
+      "rite": "enchanted:curse_sinking"
+    }
+  ],
+  "read_by_default": true,
+  "sortnum": 2
+}

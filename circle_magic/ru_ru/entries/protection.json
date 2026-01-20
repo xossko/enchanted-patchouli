@@ -1,0 +1,35 @@
+{
+  "name": "Защита",
+  "icon": "minecraft:shield",
+  "category": "enchanted:creature",
+  "pages": [
+    {
+      "type": "enchanted:rite_description",
+      "rite_name": "Защита",
+      "text": "Создайте непроницаемый купол, который могут пересечь только крадущиеся игроки. $(br2)Привязанный или окровавленный путевой камень может использоваться для нацеливания на другое место. $(br2)Требует дополнительно 4 энергии в секунду."
+    },
+    {
+      "type": "enchanted:rite_requirements",
+      "rite": "enchanted:protection"
+    },
+    {
+      "type": "enchanted:rite_description",
+      "rite_name": "Защита (большая)",
+      "text": "Создайте непроницаемый купол, который могут пересечь только крадущиеся игроки. $(br2)Привязанный или окровавленный путевой камень может использоваться для нацеливания на другое место. $(br2)Требует дополнительно 6 энергии в секунду."
+    },
+    {
+      "type": "enchanted:rite_requirements",
+      "rite": "enchanted:protection_large"
+    },
+    {
+      "type": "enchanted:rite_description",
+      "rite_name": "Защита (временная)",
+      "text": "Создайте непроницаемый купол, который никто не может пересечь в течение 60 секунд. $(br2)Привязанный или окровавленный путевой камень может использоваться для нацеливания на другое место."
+    },
+    {
+      "type": "enchanted:rite_requirements",
+      "rite": "enchanted:protection_temporary"
+    }
+  ],
+  "read_by_default": true
+}

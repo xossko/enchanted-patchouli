@@ -1,0 +1,17 @@
+{
+  "name": "Настроенный камень",
+  "icon": "enchanted:attuned_stone_charged",
+  "category": "enchanted:charging",
+  "pages": [
+    {
+      "type": "enchanted:rite_description",
+      "rite_name": "Настроенный камень",
+      "text": "Соберите энергию, чтобы наполнить настроенный камень магической энергией. Этот камень можно использовать для различных целей, таких как замена алтаря или создание магических предметов."
+    },
+    {
+      "type": "enchanted:rite_requirements",
+      "rite": "enchanted:charging_stone"
+    }
+  ],
+  "read_by_default": true
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Призыв фамильяра",
+  "icon": "enchanted:arthana",
+  "category": "enchanted:transposition",
+  "pages": [
+    {
+      "type": "enchanted:rite_description",
+      "rite_name": "Призыв фамильяра",
+      "text": "Призовите фамильяра, привязанного к заклинателю обряда, заставляя его телепортироваться в круг заклинания. Этот обряд способен призывать отправленных или мёртвых фамильяров."
+    },
+    {
+      "type": "enchanted:rite_requirements",
+      "rite": "enchanted:summon_familiar"
+    }
+  ],
+  "read_by_default": true
+}

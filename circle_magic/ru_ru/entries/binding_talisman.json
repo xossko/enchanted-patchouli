@@ -1,0 +1,26 @@
+{
+  "name": "Талисман",
+  "icon": "enchanted:circle_talisman",
+  "category": "enchanted:binding",
+  "pages": [
+    {
+      "type": "enchanted:rite_description",
+      "rite_name": "Талисман",
+      "text": "Этот обряд привязки используется для привязки мелового круга правильной конфигурации к Круговому Талисману. Эти круги можно разместить в другом месте с помощью талисмана, и привязанный круг высвобождается в мир."
+    },
+    {
+      "type": "enchanted:rite_requirements",
+      "rite": "enchanted:bind_talisman"
+    },
+    {
+      "type": "enchanted:rite_description",
+      "rite_name": "Талисман",
+      "text": "Этот обряд привязки используется для привязки мелового круга правильной конфигурации к Круговому Талисману. Эти круги можно разместить в другом месте с помощью талисмана, и привязанный круг высвобождается в мир."
+    },
+    {
+      "type": "enchanted:rite_requirements",
+      "rite": "enchanted:bind_talisman_charged"
+    }
+  ],
+  "read_by_default": true
+}

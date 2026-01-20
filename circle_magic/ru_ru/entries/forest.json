@@ -1,0 +1,17 @@
+{
+  "name": "Лес",
+  "icon": "minecraft:oak_sapling",
+  "category": "enchanted:world",
+  "pages": [
+    {
+      "type": "enchanted:rite_description",
+      "rite_name": "Лес",
+      "text": "Создайте лес деревьев вокруг круга, используя любые саженцы, которые были выброшены внутри круга во время заклинания."
+    },
+    {
+      "type": "enchanted:rite_requirements",
+      "rite": "enchanted:forest"
+    }
+  ],
+  "read_by_default": true
+}

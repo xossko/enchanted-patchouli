@@ -1,0 +1,17 @@
+{
+  "name": "Заточение",
+  "icon": "minecraft:iron_bars",
+  "category": "enchanted:creature",
+  "pages": [
+    {
+      "type": "enchanted:rite_description",
+      "rite_name": "Заточение",
+      "text": "Предотвратите бегство монстров из круга. $(br2)Хотя эффективно, этот барьер точно не является непроницаемым. Высокие скорости или телепортация могут привести к побегу монстра. $(br2)Требует дополнительно 3 энергии в секунду"
+    },
+    {
+      "type": "enchanted:rite_requirements",
+      "rite": "enchanted:imprisonment"
+    }
+  ],
+  "read_by_default": true
+}

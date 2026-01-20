@@ -1,0 +1,26 @@
+{
+  "name": "Перемещение игрока",
+  "icon": "minecraft:ender_pearl",
+  "category": "enchanted:transposition",
+  "pages": [
+    {
+      "type": "enchanted:rite_description",
+      "rite_name": "Перемещение игрока",
+      "text": "Телепортируйте заклинателя в место, содержащееся в привязанном путевом камне. $(br2)Известно, что при плохом исполнении оставляет некоторые части позади в редких случаях."
+    },
+    {
+      "type": "enchanted:rite_requirements",
+      "rite": "enchanted:transpose_caster_waystone"
+    },
+    {
+      "type": "enchanted:rite_description",
+      "rite_name": "Перемещение игрока",
+      "text": "Телепортируйте заклинателя в место, содержащееся в окровавленном путевом камне. $(br2)Известно, что при плохом исполнении оставляет некоторые части позади в редких случаях."
+    },
+    {
+      "type": "enchanted:rite_requirements",
+      "rite": "enchanted:transpose_caster_blooded"
+    }
+  ],
+  "read_by_default": true
+}

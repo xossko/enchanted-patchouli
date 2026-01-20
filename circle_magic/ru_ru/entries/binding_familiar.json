@@ -1,0 +1,17 @@
+{
+  "name": "Фамильяр",
+  "icon": "enchanted:arthana",
+  "category": "enchanted:binding",
+  "pages": [
+    {
+      "type": "enchanted:rite_description",
+      "rite_name": "Фамильяр",
+      "text": "Используйте этот обряд, чтобы привязать фамильяра к себе, что может дать бонусы ведьмам. Глава «Фамильяры» в книге «Искусство ведьмовства» подробнее описывает фамильяров."
+    },
+    {
+      "type": "enchanted:rite_requirements",
+      "rite": "enchanted:bind_familiar"
+    }
+  ],
+  "read_by_default": true
+}

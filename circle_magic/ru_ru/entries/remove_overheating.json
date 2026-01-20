@@ -1,0 +1,18 @@
+{
+  "name": "Очищение от перегрева",
+  "icon": "minecraft:blaze_powder",
+  "category": "enchanted:curses",
+  "pages": [
+    {
+      "type": "enchanted:rite_description",
+      "rite_name": "Очищение от перегрева",
+      "text": "Очистите целевого существа от перегрева. $(br2)Если заклинатель недостаточно искусен, чтобы разорвать проклятие, есть вероятность, что это может усугубить ситуацию."
+    },
+    {
+      "type": "enchanted:rite_requirements",
+      "rite": "enchanted:remove_overheating"
+    }
+  ],
+  "read_by_default": true,
+  "sortnum": 3
+}

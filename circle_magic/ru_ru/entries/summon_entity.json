@@ -1,0 +1,17 @@
+{
+  "name": "Призыв существа",
+  "icon": "minecraft:ender_eye",
+  "category": "enchanted:transposition",
+  "pages": [
+    {
+      "type": "enchanted:rite_description",
+      "rite_name": "Призыв существа",
+      "text": "Призовите помеченное существо, заставляя его телепортироваться в круг заклинания. Высокий шанс провала на охотниках на ведьм. $(br2)Выгруженные или исчезнувшие существа не могут быть призваны."
+    },
+    {
+      "type": "enchanted:rite_requirements",
+      "rite": "enchanted:summon_entity"
+    }
+  ],
+  "read_by_default": true
+}

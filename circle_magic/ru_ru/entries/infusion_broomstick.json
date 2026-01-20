@@ -1,0 +1,17 @@
+{
+  "name": "Насыщение метлы",
+  "icon": "enchanted:enchanted_broomstick",
+  "category": "enchanted:infusion",
+  "pages": [
+    {
+      "type": "enchanted:rite_description",
+      "rite_name": "Насыщение метлы",
+      "text": "Наделите обычную метлу силой полёта, позволяя ведьме или волшебнику на ней летать.$(br2)Стандартные элементы управления — WASD, Space/LControl и C/V."
+    },
+    {
+      "type": "enchanted:rite_requirements",
+      "rite": "enchanted:infusion_broom"
+    }
+  ],
+  "read_by_default": true
+}

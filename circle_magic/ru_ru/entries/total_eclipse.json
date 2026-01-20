@@ -1,0 +1,26 @@
+{
+  "name": "Полное затмение",
+  "icon": "minecraft:clock",
+  "category": "enchanted:world",
+  "pages": [
+    {
+      "type": "enchanted:rite_description",
+      "rite_name": "Полное затмение",
+      "text": "Закройте небо тьмой и закройте солнце. $(br2)(Устанавливает время на полночь)"
+    },
+    {
+      "type": "enchanted:rite_requirements",
+      "rite": "enchanted:total_eclipse"
+    },
+    {
+      "type": "enchanted:rite_description",
+      "rite_name": "Полное затмение",
+      "text": "Закройте небо тьмой и закройте солнце. $(br2)(Устанавливает время на полночь)"
+    },
+    {
+      "type": "enchanted:rite_requirements",
+      "rite": "enchanted:total_eclipse_charged"
+    }
+  ],
+  "read_by_default": true
+}

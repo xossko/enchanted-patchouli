@@ -1,0 +1,17 @@
+{
+  "name": "Святость",
+  "icon": "minecraft:feather",
+  "category": "enchanted:creature",
+  "pages": [
+    {
+      "type": "enchanted:rite_description",
+      "rite_name": "Святость",
+      "text": "Предотвратите вход монстров в круг. $(br2)Хотя эффективно, этот барьер точно не является непроницаемым. Высокие скорости могут привести к отскоку монстра внутри круга. $(br2)Требует дополнительно 3 энергии в секунду"
+    },
+    {
+      "type": "enchanted:rite_requirements",
+      "rite": "enchanted:sanctity"
+    }
+  ],
+  "read_by_default": true
+}
