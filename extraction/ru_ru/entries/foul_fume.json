@@ -1,0 +1,16 @@
+{
+  "name": "Похисляя мазь",
+  "icon": "enchanted:foul_fume",
+  "category": "enchanted:collecting_fumes",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Опасное вещество. Не рекомендуется работать с чистым веществом без особого ухода и предосторожности. Она используется как в дистилляции, так и в других рецептах."
+    },
+    {
+      "type": "enchanted:witch_oven_recipe",
+      "recipe": "enchanted:witch_oven/foul_fume"
+    }
+  ],
+  "read_by_default": true
+}

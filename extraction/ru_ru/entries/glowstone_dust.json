@@ -1,0 +1,12 @@
+{
+  "name": "Пыль света",
+  "icon": "minecraft:glowstone_dust",
+  "category": "enchanted:distillation",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Один из продуктов ангингирования."
+    }
+  ],
+  "read_by_default": true
+}

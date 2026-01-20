@@ -1,0 +1,16 @@
+{
+  "name": "Выдыхание Рогатого",
+  "icon": "enchanted:exhale_of_the_horned_one",
+  "category": "enchanted:collecting_fumes",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Опасное вещество для размещения демонического отпрыска. Более мощное, чем демоническая кровь."
+    },
+    {
+      "type": "enchanted:witch_oven_recipe",
+      "recipe": "enchanted:witch_oven/exhale_of_the_horned_one"
+    }
+  ],
+  "read_by_default": true
+}

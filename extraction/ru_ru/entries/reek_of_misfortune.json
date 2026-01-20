@@ -1,0 +1,16 @@
+{
+  "name": "Мяснистый запах несчастья",
+  "icon": "enchanted:reek_of_misfortune",
+  "category": "enchanted:collecting_fumes",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Опасное вещество для размещения отпрыска несчастья. Многая введра бывает ослаблена."
+    },
+    {
+      "type": "enchanted:witch_oven_recipe",
+      "recipe": "enchanted:witch_oven/reek_of_misfortune"
+    }
+  ],
+  "read_by_default": true
+}

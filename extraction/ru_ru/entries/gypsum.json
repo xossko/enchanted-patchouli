@@ -1,0 +1,12 @@
+{
+  "name": "Гипс",
+  "icon": "minecraft:white_concrete_powder",
+  "category": "enchanted:collecting_fumes",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Минерал, собранный как побочный продукт печи. Обычно бывает неполезным."
+    }
+  ],
+  "read_by_default": true
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Мяснистый запах несчастья (дистилляция)",
+  "icon": "enchanted:reek_of_misfortune",
+  "category": "enchanted:distillation",
+  "pages": [
+    {
+      "type": "enchanted:distillery_recipe",
+      "recipe": "enchanted:distillery/reek_of_misfortune"
+    }
+  ],
+  "read_by_default": true
+}

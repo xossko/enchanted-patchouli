@@ -1,0 +1,16 @@
+{
+  "name": "Вевние магии",
+  "icon": "enchanted:whiff_of_magic",
+  "category": "enchanted:collecting_fumes",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Опасное вещество. Часто держится в стекле. Она используется как в дистилляции, так и в других рецептах."
+    },
+    {
+      "type": "enchanted:witch_oven_recipe",
+      "recipe": "enchanted:witch_oven/whiff_of_magic"
+    }
+  ],
+  "read_by_default": true
+}

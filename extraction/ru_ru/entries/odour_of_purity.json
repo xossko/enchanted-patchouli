@@ -1,0 +1,16 @@
+{
+  "name": "Аромат чистоты",
+  "icon": "enchanted:odour_of_purity",
+  "category": "enchanted:collecting_fumes",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Очищающее вещество. Используется в выливаниях за очистку и в фокусах для очистки."
+    },
+    {
+      "type": "enchanted:witch_oven_recipe",
+      "recipe": "enchanted:witch_oven/odour_of_purity"
+    }
+  ],
+  "read_by_default": true
+}

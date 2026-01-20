@@ -1,0 +1,12 @@
+{
+  "name": "Очищенное зло",
+  "icon": "enchanted:refined_evil",
+  "category": "enchanted:collecting_fumes",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Одна из странных редких паров, которые могут быть собраны в печи."
+    }
+  ],
+  "read_by_default": true
+}

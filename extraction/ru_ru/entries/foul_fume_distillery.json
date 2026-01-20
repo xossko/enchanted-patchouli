@@ -1,0 +1,12 @@
+{
+  "name": "Похисляя мазь (дистилляция)",
+  "icon": "enchanted:foul_fume",
+  "category": "enchanted:distillation",
+  "pages": [
+    {
+      "type": "enchanted:distillery_recipe",
+      "recipe": "enchanted:distillery/foul_fume"
+    }
+  ],
+  "read_by_default": true
+}

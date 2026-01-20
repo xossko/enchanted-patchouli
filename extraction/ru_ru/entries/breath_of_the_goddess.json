@@ -1,0 +1,16 @@
+{
+  "name": "Дыхание Богини",
+  "icon": "enchanted:breath_of_the_goddess",
+  "category": "enchanted:collecting_fumes",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Показывается, что это весьма мощное вещество, дающее всем в радиусе эффект шлейфа благородности в течение скоротечного времени. Полезно для фокуса в целивания."
+    },
+    {
+      "type": "enchanted:witch_oven_recipe",
+      "recipe": "enchanted:witch_oven/breath_of_the_goddess"
+    }
+  ],
+  "read_by_default": true
+}
