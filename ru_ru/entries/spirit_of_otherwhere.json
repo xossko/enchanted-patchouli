@@ -1,0 +1,16 @@
+{
+  "name": "Дух Иного Места",
+  "icon": "enchanted:spirit_of_otherwhere",
+  "category": "enchanted:kettle",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Дух Иного Места — ещё одна производная редстоунового супа, пропитанная свойствами Края и его обитателей. $(br2)Этот настой чрезвычайно токсичен и не должен употребляться внутрь."
+    },
+    {
+      "type": "enchanted:kettle_recipe",
+      "recipe": "enchanted:kettle/spirit_of_otherwhere"
+    }
+  ],
+  "read_by_default": true
+}

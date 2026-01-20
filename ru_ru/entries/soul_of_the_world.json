@@ -1,0 +1,16 @@
+{
+  "name": "Душа мира",
+  "icon": "enchanted:soul_of_the_world",
+  "category": "enchanted:kettle",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Душа мира — производная редстоунового супа, пропитанная энергией природы; используется для человеческих настоев. $(br2)Этот настой чрезвычайно токсичен и не должен употребляться внутрь."
+    },
+    {
+      "type": "enchanted:kettle_recipe",
+      "recipe": "enchanted:kettle/soul_of_the_world"
+    }
+  ],
+  "read_by_default": true
+}
